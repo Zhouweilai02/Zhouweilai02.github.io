@@ -2,7 +2,11 @@
 title: "Single-cell transcriptomics reveals the pulmonary inflammation induced by inhalation of subway fine particles"
 collection: publications
 category: manuscripts  # 对应_config.yml中"期刊论文"分类，无需修改
-permalink: https://doi.org/10.1016/j.jhazmat.2023.132896
+# permalink: https://doi.org/10.1016/j.jhazmat.2023.132896
+        
+        
+        
+        
         
          # 唯一访问路径，简洁易识别
 excerpt: This study revealed whether and how subway PM2.5 causes lung inflammation, identifying CD4+ T and γδ T cells as predominant sources of pneumonitis, and providing insights for subway air quality management.  # 保留简洁版摘要（列表页展示用）
@@ -10,8 +14,16 @@ date: 2024-02-05  # 发表年份确定为2024，具体月日若未知可填"01-0
 venue: "Journal of Hazardous Materials, 463, 132896"  # 期刊名+卷期+页码，符合学术引用规范
 paperurl: "https://doi.org/10.1016/j.jhazmat.2023.132896
         
+        
+        
+        
+        
         "  # 修正后的DOI链接（删除末尾"IF"，可直接跳转论文页面）
 citation: "Zhou, W., Yuan, W., Chen, Y., Li, C., Hu, L., Li, Q., Wang, J., Xue, R., Sun, Y., Xia, Q., Hu, L., Wei, Y., & He, M. (2024). Single-cell transcriptomics reveals the pulmonary inflammation induced by inhalation of subway fine particles. <<i>Journal of Hazardous Materials</</i>, 463, 132896. https://doi.org/10.1016/j.jhazmat.2023.132896
+        
+        
+        
+        
         
         "  # 标准APA引用格式
 ---
