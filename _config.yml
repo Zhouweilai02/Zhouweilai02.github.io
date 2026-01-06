@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Weilai Zhou
+title                    : "Weilai Zhou"
 title_separator          : "-"
 name                     : &name "Weilai Zhou"
 description              : &description "Weilai Zhou's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
