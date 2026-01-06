@@ -3,8 +3,8 @@ title: "Single-cell transcriptomics reveals the pulmonary inflammation induced b
 collection: publications
 category: manuscripts  # 对应_config.yml中"期刊论文"分类，无需修改
 permalink: https://doi.org/10.1016/j.jhazmat.2023.132896 # 唯一访问路径，简洁易识别
-excerpt: "本研究通过单细胞转录组测序（single-cell RNA-seq）技术，揭示了地铁细颗粒吸入诱导肺部炎症的细胞特异性分子机制，为空气污染相关呼吸系统疾病的防治提供了新靶点。"  # 论文核心贡献提炼
-date: 2024-01-01  # 发表年份确定为2024，具体月日若未知可填"01-01"
+excerpt: This study revealed whether and how subway PM2.5 causes lung inflammation, identifying CD4+ T and γδ T cells as predominant sources of pneumonitis, and providing insights for subway air quality management."  # 保留简洁版摘要（列表页展示用）
+date: 2024-02-05  # 发表年份确定为2024，具体月日若未知可填"01-01"
 venue: "Journal of Hazardous Materials, 463, 132896"  # 期刊名+卷期+页码，符合学术引用规范
 paperurl: "https://doi.org/10.1016/j.jhazmat.2023.132896"  # 修正后的DOI链接（删除末尾"IF"，可直接跳转论文页面）
 slidesurl: ""  # 可选：若有论文配套幻灯片，填链接（如"https://zhouweilai02.github.io/files/slides_subway_pm.pdf"），无则留空或删除此行
