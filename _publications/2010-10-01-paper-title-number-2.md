@@ -2,7 +2,7 @@
 title: "Screening and bioinformatics analysis of hub genes of bronchial asthma based on GEO database chip"
 collection: publications
 category: manuscripts
-permalink: http://dx.chinadoi.cn/10.3969/j.issn.1000-484X.2025.02.006
+# permalink: http://dx.chinadoi.cn/10.3969/j.issn.1000-484X.2025.02.006
 excerpt: "This study identified 13 hub genes associated with bronchial asthma via bioinformatics approaches, constructing miRNA-mRNA regulatory networks and verifying their diagnostic value, providing insights into asthma's molecular mechanisms."
 date: 2025-02-01
 venue: "Chinese Journal of Immunology, 41(2), 287-294"
