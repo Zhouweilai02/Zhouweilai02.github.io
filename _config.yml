@@ -23,14 +23,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "../images/ZWL.JPG"
   name             : "Weilai Zhou"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
   employer         : "Peking University"
   uri              : https://zhouweilai02.github.io/
-  email            : "none@example.org" 
+  email            : "zwl_2002@163.com" 
 
   # Academic websites
   academia         : # URL
