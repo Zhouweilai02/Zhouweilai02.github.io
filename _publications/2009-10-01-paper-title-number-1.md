@@ -7,8 +7,6 @@ excerpt: This study revealed whether and how subway PM2.5 causes lung inflammati
 date: 2024-02-05  # 发表年份确定为2024，具体月日若未知可填"01-01"
 venue: "Journal of Hazardous Materials, 463, 132896"  # 期刊名+卷期+页码，符合学术引用规范
 paperurl: "https://doi.org/10.1016/j.jhazmat.2023.132896"  # 修正后的DOI链接（删除末尾"IF"，可直接跳转论文页面）
-slidesurl: ""  # 可选：若有论文配套幻灯片，填链接（如"https://zhouweilai02.github.io/files/slides_subway_pm.pdf"），无则留空或删除此行
-bibtexurl: ""  # 可选：若有BibTeX文件，上传至GitHub仓库"files"目录后填链接（如"https://zhouweilai02.github.io/files/bibtex_subway_pm.bib"），无则留空或删除此行
 citation: "Zhou, W., Yuan, W., Chen, Y., Li, C., Hu, L., Li, Q., Wang, J., Xue, R., Sun, Y., Xia, Q., Hu, L., Wei, Y., & He, M. (2024). Single-cell transcriptomics reveals the pulmonary inflammation induced by inhalation of subway fine particles. <<i>Journal of Hazardous Materials</</i>, 463, 132896. https://doi.org/10.1016/j.jhazmat.2023.132896"  # 标准APA引用格式
 ---
 ### Abstract
